@@ -1,4 +1,4 @@
-**🍝 Reestar - Simple Food Ordering Website**
+**🍝 Reestar - Simple Food Menu Website**
 
 Reestar is a beginner-friendly responsive website built using HTML and CSS. It is designed as a mock food ordering platform, showcasing popular dishes with a clean layout and a simple contact form.
 
