@@ -27,8 +27,8 @@ Home Page – Displays a grid of food dishes and Contains a form for user input
 
 **🚀 Getting Started**
 
-Clone the repository:
-git clone https://github.com/yourusername/reestar.git
+Clone the repository
+https://github.com/Narendk/reestar-website.git
 
 Open the folder in your code editor
 
